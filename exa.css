@@ -1,12 +1,4 @@
-body {
-    background-color: #FAFAFA;
-    background-image: url("https://1.bp.blogspot.com/-2nv5vPGoYQk/VrtHbAeyHgI/AAAAAAAACSQ/SukkY_hYkVk/s1600/bgleft3.png"), url("https://1.bp.blogspot.com/--F7XZOAEwLY/VrtHcc2Z5UI/AAAAAAAACSU/Gip3IpgrSHo/s1600/bgright3.png");
-    background-attachment: fixed, fixed;
-    background-clip: border-box, border-box;
-    background-origin: padding-box, padding-box;
-    background-size: auto auto, auto auto;
-    background-repeat: no-repeat;
-    background-position: left top, right top; }
+body {margin: 20px; font-family:Verdana; font-size:12px; background:#52BAD7}
 
 #box {margin:0 auto; width: 806px; padding: 20px; border-style: solid; border-width: 2px; text-align:justify; }
 
