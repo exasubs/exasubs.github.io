@@ -2,6 +2,7 @@ body {margin: 20px; font-family:Verdana; font-size:12px; background:#52BAD7}
 
 #box {margin:0 auto; width: 806px; padding: 20px; border-style: solid; border-width: 2px; text-align:justify; }
 
+.beranda {color: #905E06;border-color: #CC9613;background: #FDE7C2}
 .main {color:#224466; border-color:#4B84AA; background:#C2F2FD}
 .shows {color:#224466; border-color:#4B84AA; background:#aaccdd}
 .project {color:#224466; border-color:#4B84AA; background:#C2F2FD}
@@ -11,6 +12,7 @@ body {margin: 20px; font-family:Verdana; font-size:12px; background:#52BAD7}
 .red {color:#002244; border-color:#224466; background:#77143A}
 
 a {font-weight:bold; text-decoration:none; color:#266DD2}
+b {font-weight:bold; text-decoration:none; color:#835A07}
 
 A:hover {color:#3Fc5c0}
 
