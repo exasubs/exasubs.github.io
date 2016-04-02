@@ -10,6 +10,51 @@ body {margin: 20px; font-family:Verdana; font-size:12px; background:#52BAD7}
 .faq {color:#002244; border-color:#224466; background:#E090AF}
 .blog {color:#002222; border-color:#003344; background:#A0C0C0}
 .red {color:#002244; border-color:#224466; background:#77143A}
+.dl-box {
+    background-color: #F5F5F5;
+    border: 1px solid #E5E5E5;
+    float: left;
+    font-family: Arial,Tahoma,"Lucida Sans Unicode","Lucida Grande";
+    font-size: 12px;
+    line-height: 12px;
+    margin: 0px 0px 20px;
+    outline: 0px none;
+    overflow: hidden;
+    padding: 20px;
+    vertical-align: baseline;
+    width: 578px;
+}
+.dl-title {
+    background-color: #00F;
+    background-position: 7px 6px;
+    background-repeat: no-repeat no-repeat;
+    border: 1px none;
+    color: #FFF;
+    float: left;
+    font-family: Tahoma;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0px 0px 3px;
+    outline: 0px none;
+    padding: 10px 0px 10px 35px;
+    vertical-align: baseline;
+    width: 543px;
+}
+.dl-item {
+    background-color: #FFF;
+    background-position: 7px 6px;
+    background-repeat: no-repeat no-repeat;
+    border: 0px none;
+    float: left;
+    font-family: Tahoma;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0px 0px 2px;
+    outline: 0px none;
+    padding: 10px 0px 10px 35px;
+    vertical-align: baseline;
+    width: 543px;
+}
 
 a {font-weight:bold; text-decoration:none; color:#091424}
 b {font-weight:bold; text-decoration:none; color:#835A07}
